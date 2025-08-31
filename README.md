@@ -36,5 +36,4 @@ Foi adicionada uma seção de **promoção visual** igual à do Instagram oficia
   > *"Veja momentos do dia a dia dos seus amigos próximos."*  
 
 - O texto possui destaque com gradiente usando `background-clip: text`.
-# Instagram-clone
-# Instagram-clone
+
