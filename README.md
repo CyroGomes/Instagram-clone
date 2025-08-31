@@ -37,3 +37,4 @@ Foi adicionada uma seção de **promoção visual** igual à do Instagram oficia
 
 - O texto possui destaque com gradiente usando `background-clip: text`.
 # Instagram-clone
+# Instagram-clone
